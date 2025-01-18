@@ -1,5 +1,4 @@
-# newproject
-This is a new repo for my new project
+# Car sales dashboard
 # Panel de Control de Anuncios de Venta de Coches
 
 ## Descripción del Proyecto
